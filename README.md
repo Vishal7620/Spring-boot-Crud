@@ -1,4 +1,4 @@
-Add database Configuration like creare crud database
+Add database Configuration like creare crud database.
 #server
 server.port=8080
 
